@@ -1,11 +1,11 @@
-# Face Detection Project
+# Real-Time Face Detection
 
 ## Description
 This project uses OpenCV to detect faces in real-time video feed from a webcam.
 
 ## Installation
 - Install OpenCV using pip: `pip install opencv-python`
-- Clone this repository: `git clone https://github.com/your-username/face-detection.git`
+- Clone this repository: `git clone https://github.com/nikhils045/Real-Time-Face-Detection.git`
 - Run the script using Python: `python main.py`
 - Press 'q' to quit the program
 
